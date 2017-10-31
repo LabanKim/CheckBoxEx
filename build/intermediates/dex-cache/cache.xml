@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/db75be7ad78d3fa68add55a8e5c70054ebebcd4f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9ae354dedf5ed7a74a50dec4e48959c551feda7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/f7cfa0110b6459240640d99a19d21c01a333f86a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1191bf64b519084171a5f47da452bd0d03bdf008/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/84435faa5998d9b20a22a72f4873760e83284447/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_664b3be16ad1689075dfa566607201af16f6eb98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/02b9b4ad19a58c10215f75cdfaf9ddee90547ac8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8ed26eaa70b680fbe68ddfcbe27c356d0322f85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/ae85195185f6d020e09dc106608cb697abcaccde/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f1c0bfa5d8eee6f9babdb3b8c560263235b5e9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kim/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_375d894f0ede164eecb72a83e41ea1bb74728d11.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/0e9467ded09ee7f07fba222962f1eab5c3c50a2d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4f4445d75a01c4e98e490f7487023de779977e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/5b4e139d082965f9d206b02a1457fd54223fc5a4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71b3c6aa7a5ec1939af2215e9f8775974c23b35b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_375d894f0ede164eecb72a83e41ea1bb74728d11/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/kim/.android/build-cache/16a0c6dbcb7bb92ae122fbfab0079780d0251651/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/pre-dexed/debug/classes_885e788e32cfb4f2d0f06de268a9057fbbf933fd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/16a0c6dbcb7bb92ae122fbfab0079780d0251651/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_885e788e32cfb4f2d0f06de268a9057fbbf933fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/acc664754e590ef0b6619f0e9c7260c6c0e9c453/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b171f76fd17d054ac80a220700abfbb4b0e5c9d3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/df9fe7219b9564643a6b2150be64a000d62753ff/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4993f1f40b1c9fc3c02c716756776b25c82000f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/21343884d4744aca2241e7ba3ad384f41a7ce0a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_212701832d76d7203ff9a46e518ec788943797f1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/6db7087a74487ca5ae18664b5982ac42e6c81cb7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2876ffe5579c05a5aea8f460402bbff9eb0e3aad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/67de3ccf300815fa2dcff3739906f35d25eb81be/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b22fa6c931d26baa302f0cea2a7fd8b885c734f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_ae830e8ee34ea344e3df778ad5deecb48eacd221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/8aee16a3798dcb7beeb5f63d72c2177f2ea8cec6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_97ed8039c6c10a83fe8a424bf56efd867f166082/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/f535b94d62843460d8ab19d62bef82a0e3dbb731/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_00e91c67999362458b7c176ec5263f119bc1fec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/dbdedbe3b34ad8421bf206cb54cf625d3f7ef92e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_69c8e72db82fcd1f3565794b36c5b23d2263aef2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/5c7fda6874bb13f1817f79ee57481a5c7618c8b5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4f16e7379e41aa0b3e3ddc487a8e2741df58670d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a038b23869f27084504e90e3d6a8b85c17a4dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="899c2e3c3720eb83f0fc0215466e814b89072702">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_196ee8302c21176d3773fde87ae6ff1ca3dff73c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/c0c58fc2d3f62df9f0c1498ae5eb3949a5852e39/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71cd79c28e5a8de959ec3dc7b35f0a4ee78aae14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/1082b7ce12faabc43cdecf55bb1d9e1e32853787/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afff11fa158c830f5e1421ef895eca2b80b25ef4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kim/.android/build-cache/b47ac572ec996f6f7d3d813cbcf20781cf01c03d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="/home/kim/Desktop/Kim Projects/CheckBoxEx/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_99549d56797c5bcf6dc5bbc65a26fc23fc5670aa/classes.dex" />
+    </item>
+
+</items>
